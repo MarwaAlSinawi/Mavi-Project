@@ -44,9 +44,7 @@ public class MainClass {
 
 			case 3:
 	
-			
-				
-				
+				deletingApi.Delete();
 				MainMenue();
 				break;
 
